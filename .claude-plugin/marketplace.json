@@ -1,0 +1,14 @@
+{
+  "name": "cowork-agent-kit",
+  "description": "Личный агент для Claude Cowork: настройка, память в файлах, уроки из ошибок.",
+  "owner": {
+    "name": "Kris Usti"
+  },
+  "plugins": [
+    {
+      "name": "agent-kit",
+      "source": "./plugin",
+      "description": "Настройка личного агента в Claude Cowork: интервью, память в файлах, уроки из ошибок, уборка памяти, тематические проекты."
+    }
+  ]
+}
