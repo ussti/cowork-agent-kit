@@ -1,7 +1,7 @@
 {
   "name": "agent-kit",
-  "version": "0.1.0",
-  "description": "Скиллы личного агента для Claude Cowork: agent-setup, save-lesson, memory-cleanup, new-project.",
+  "version": "0.2.0",
+  "description": "Скиллы личного агента для Claude Cowork: agent-setup, save-lesson, memory-cleanup, new-project, voice-learn.",
   "author": { "name": "Kris Usti" },
   "license": "MIT"
 }
